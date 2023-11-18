@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignore large tifs until I figure out git LFS
+*.tif
